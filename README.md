@@ -1,5 +1,5 @@
 # 🛠️⚙️ EquipTrack-Lite Backend
-#### 👉 [Read in English](./english.md)
+#### 🇺🇸 [Read in English](./english.md) 👈
 
 ### Microserviço de Gerenciamento de Equipamentos
 
