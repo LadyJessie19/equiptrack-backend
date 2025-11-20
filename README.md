@@ -4,7 +4,7 @@
 
 O coração do sistema — desenvolvido com **Quarkus** para ser **leve, rápido e pronto para contêineres**.
 
-<img src="https://i.imgur.com/8QzXy2A.png" alt="Quarkus Logo" width="300" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGQxeTRoamZieTc3MWc2dXFudGRrM3Q0b2QzdHJjdHhsZDRkdnlmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9jRZ5V8KHKMSZA4/giphy.gif" alt="Quarkus Logo" width="300" />
 
 ---
 
@@ -15,7 +15,7 @@ O coração do sistema — desenvolvido com **Quarkus** para ser **leve, rápido
 | **Nome do Projeto** | EquipTrack-Lite Backend 🛠️⚙️ |
 | **Data de Início**  | 10/10/2025 ⏩                |
 | **Data de Término** | 12/10/2025 🏁                |
-| **Status**          | ✅ Concluído (MVP CRUD)      |
+| **Status**          | ✔ Finalizado                 |
 
 ---
 
@@ -65,8 +65,8 @@ Este microserviço demonstra a base da arquitetura sobre a qual irei evoluir o s
 ### 🔹 Clone o repositório
 
 ```bash
-git clone <link-do-seu-repo-backend>
-cd equiptrack-lite-backend
+git clone https://github.com/LadyJessie19/equiptrack-backend.git
+cd equiptrack-backend
 ```
 
 ### 🔹 Configuração do Banco de Dados
@@ -110,9 +110,13 @@ A API estará disponível em:
 
 ## 👩‍💻 Desenvolvido por Jessie Moura
 
+<img src="public/jessica.png" alt="Jessie" width="200" />
+
 💡 **Jessie M. Bentes** — _Fullstack Developer (foco em Backend Java com Spring Boot e Quarkus)_
+
 🚀 Apaixonada por tecnologia, arquitetura limpa e boas práticas de código.
-📬 Entre em contato: [LinkedIn](https://www.linkedin.com/in/jessiemoura) | [GitHub](https://github.com/jessiemoura)
+
+📬 Entre em contato: [LinkedIn](https://www.linkedin.com/in/jessiemoura) | [GitHub](https://github.com/LadyJessie19)
 
 ---
 
@@ -121,3 +125,7 @@ A API estará disponível em:
 Este projeto representa o **MVP Backend** do _EquipTrack-Lite_, estabelecendo uma base sólida para futuras integrações com o frontend Vue.js e outros microserviços.
 
 ---
+
+## 🚪 Licença
+
+Este projeto é licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
