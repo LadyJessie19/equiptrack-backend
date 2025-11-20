@@ -110,7 +110,7 @@ A API estará disponível em:
 
 ## 👩‍💻 Desenvolvido por Jessie Moura
 
-<img src="public/jessica.png" alt="Jessie" width="200" />
+<img src="src/main/resources/jessica.png" alt="Jessie" width="200" />
 
 💡 **Jessie M. Bentes** — _Fullstack Developer (foco em Backend Java com Spring Boot e Quarkus)_
 
