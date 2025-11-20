@@ -4,7 +4,7 @@
 
 O coração do sistema — desenvolvido com **Quarkus** para ser **leve, rápido e pronto para contêineres**.
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGQxeTRoamZieTc3MWc2dXFudGRrM3Q0b2QzdHJjdHhsZDRkdnlmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9jRZ5V8KHKMSZA4/giphy.gif" alt="Quarkus Logo" width="300" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Q2aHFpOXlpMGNjNmI5c2FiNmE4bGVyOGoxZ3NqYjlodGZqMW11dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aARCiUFK86xvG/giphy.gif" alt="Quarkus Logo" width="300" />
 
 ---
 
